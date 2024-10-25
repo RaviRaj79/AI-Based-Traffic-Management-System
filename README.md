@@ -27,9 +27,6 @@ Install dependencies listed in requirements.txt
 Steps
 Clone the repository:https://github.com/RaviRaj79
 bash
-Copy code
-git clone https://github.com/your-username/ai-traffic-management-system.git
-cd ai-traffic-management-system
 Set up and activate a virtual environment:
 bash
 Copy code
